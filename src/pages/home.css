@@ -1,0 +1,16 @@
+.bg{
+    background-image: url(/src/images/home2.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+h4{
+    margin-top: 140px;
+    margin-left: 20px;
+    
+}
+
+.link{
+    margin-top: 270px;
+}
